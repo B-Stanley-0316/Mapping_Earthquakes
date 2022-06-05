@@ -9,9 +9,9 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 3. Additional Map for a 3-option view
 
 ### Map Details
-1. Earthquakes will be visually represented by a circle and a color bsed on their magnitude.
+1. Earthquakes will be visually represented by a circle and a color based on their magnitude.
 2. Each earthquake will also have a popup marker for information on the location and magnitude.
-3. A legend at the bottom of the map to show the color of the markers and their corresponding magnitude.
+3. A legend at the bottom right of the map to show the color of the markers and their corresponding magnitude.
 4. Lines on the map that reflect the tectonic plates locations.
 5. A button at the top right corner to toggle between 3 map options and options to remove the major earthquakes, tectonic plates, or all eearthquakes data.
 
